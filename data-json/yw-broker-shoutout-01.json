@@ -1,0 +1,155 @@
+[
+ {
+   "date": "10 mins ago",
+   "user": {
+      "name": "Muhd Shafiq",
+      "user_image": "https://randomuser.me/api/portraits/men/92.jpg"
+   },
+   "share_name": "AIRASIA GROUP BERHAD",
+   "broker_name": "Affin Hwang Capital"
+},
+ {
+   "date": "15 mins ago",
+   "user": {
+      "name": "Lonnie Stewart",
+      "user_image": "https://randomuser.me/api/portraits/men/68.jpg"
+   },
+   "share_name": "AXIATA GROUP BERHAD",
+   "broker_name": "AmEquities"
+},
+ {
+   "date": "30 mins ago",
+   "user": {
+      "name": "Kaylee Duncan",
+      "user_image": "https://randomuser.me/api/portraits/women/78.jpg"
+   },
+   "share_name": "BERJAYA CORPORATION BERHAD",
+   "broker_name": "JF Apex"
+},
+ {
+   "date": "10 mins ago",
+   "user": {
+      "name": "Ruby Larson",
+      "user_image": "https://randomuser.me/api/portraits/women/84.jpg"
+   },
+   "share_name": "BINA PURI HOLDINGS BHD",
+   "broker_name": "BIMB Securities"
+},
+ {
+   "date": "15 mins ago",
+   "user": {
+      "name": "Ida Wagner",
+      "user_image": "https://randomuser.me/api/portraits/women/9.jpg"
+   },
+   "share_name": "BURSA MALAYSIA BERHAD",
+   "broker_name": "iTrade@CIMB"
+},
+ {
+   "date": "30 mins ago",
+   "user": {
+      "name": "Scott Garrett",
+      "user_image": "https://randomuser.me/api/portraits/men/56.jpg"
+   },
+   "share_name": "CARLSBERG BREWERY MALAYSIA BERHAD",
+   "broker_name": "HL Broking"
+},
+ {
+   "date": "10 mins ago",
+   "user": {
+      "name": "Brittany Burns",
+      "user_image": "https://randomuser.me/api/portraits/women/19.jpg"
+   },
+   "share_name": "DUTCH LADY MILK INDUSTRIES BERHAD",
+   "broker_name": "Juniper Online"
+},
+ {
+   "date": "15 mins ago",
+   "user": {
+      "name": "Kathy Gomez",
+      "user_image": "https://randomuser.me/api/portraits/women/11.jpg"
+   },
+   "share_name": "FRONTKEN CORPORATION BERHAD",
+   "broker_name": "KenTrade"
+},
+ {
+   "date": "30 mins ago",
+   "user": {
+      "name": "Dean Graves",
+      "user_image": "https://randomuser.me/api/portraits/men/72.jpg"
+   },
+   "share_name": "GAMUDA BERHAD",
+   "broker_name": "maybank2u"
+},
+ {
+   "date": "10 mins ago",
+   "user": {
+      "name": "Hazel George",
+      "user_image": "https://randomuser.me/api/portraits/women/3.jpg"
+   },
+   "share_name": "GENTING BERHAD",
+   "broker_name": "Mercury Securities"
+},
+ {
+   "date": "15 mins ago",
+   "user": {
+      "name": "Anthony Murray",
+      "user_image": "https://randomuser.me/api/portraits/men/71.jpg"
+   },
+   "share_name": "IGB BERHAD",
+   "broker_name": "Mplus Online"
+},
+ {
+   "date": "30 mins ago",
+   "user": {
+      "name": "Eduardo Wilson",
+      "user_image": "https://randomuser.me/api/portraits/men/65.jpg"
+   },
+   "share_name": "KPJ HEALTHCARE BERHAD",
+   "broker_name": "Public Bank eTrade"
+},
+ {
+   "date": "10 mins ago",
+   "user": {
+      "name": "Kitty Roberts",
+      "user_image": "https://randomuser.me/api/portraits/women/63.jpg"
+   },
+   "share_name": "MALAYAN BANKING BERHAD",
+   "broker_name": "Rakuten Trade"
+},
+ {
+   "date": "15 mins ago",
+   "user": {
+      "name": "Brad Mcdonalid",
+      "user_image": "https://randomuser.me/api/portraits/men/77.jpg"
+   },
+   "share_name": "MAXIS BERHAD",
+   "broker_name": "RHB Invest"
+},
+ {
+   "date": "30 mins ago",
+   "user": {
+      "name": "Savannah Collins",
+      "user_image": "https://randomuser.me/api/portraits/women/76.jpg"
+   },
+   "share_name": "PETRONAS GAS BERHAD",
+   "broker_name": "SJ Securities"
+},
+ {
+   "date": "10 mins ago",
+   "user": {
+      "name": "Claire Patterson",
+      "user_image": "https://randomuser.me/api/portraits/women/32.jpg"
+   },
+   "share_name": "TENAGA NASIONAL BERHAD",
+   "broker_name": "TA Online"
+},
+ {
+   "date": "15 mins ago",
+   "user": {
+      "name": "Caroline Lee",
+      "user_image": "https://randomuser.me/api/portraits/women/44.jpg"
+   },
+   "share_name": "TOP GLOVE CORPORATION BERHAD",
+   "broker_name": "UOB KayHian"
+}
+]

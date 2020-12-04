@@ -1,0 +1,10 @@
+// refer for variables in _.variable.scss
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "node_modules/bootstrap/scss/mixins";
+
+// Your variable overrides
+$body-bg: $gray-200;
+$font-size-base: 0.9rem;
+
+@import 'node_modules/bootstrap/scss/bootstrap';

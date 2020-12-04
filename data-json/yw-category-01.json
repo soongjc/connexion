@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "label": "Construction",
+    "link": "electrical-appliances"
+  },
+  {
+    "id": 2,
+    "label": "Agriculture",
+    "link": "aviation"
+  },
+  {
+    "id": 3,
+    "label": "Automotive",
+    "link": "automotive"
+  },
+  {
+    "id": 4,
+    "label": "Consumer Services",
+    "link": "consumer-services"
+  },
+  {
+    "id": 5,
+    "label": "Food and Beverages",
+    "link": "food-and-beverages"
+  },
+  {
+    "id": 6,
+    "label": "Energy",
+    "link": "energe"
+  },
+  {
+    "id": 7,
+    "label": "Oil and Gas",
+    "link": "oil-and-gas"
+  },
+  {
+    "id": 8,
+    "label": "Banking",
+    "link": "banking"
+  },
+  {
+    "id": 9,
+    "label": "Insurance",
+    "link": "insurance"
+  },
+  {
+    "id": 10,
+    "label": "Health Care",
+    "link": "health-care"
+  },
+  {
+    "id": 11,
+    "label": "Pharmaceuticals",
+    "link": "pharmaceuticals"
+  },
+  {
+    "id": 12,
+    "label": "Chemicals",
+    "link": "chemicals"
+  },
+  {
+    "id": 13,
+    "label": "Industrial Engineering",
+    "link": "industrial-engineering"
+  },
+  {
+    "id": 14,
+    "label": "Industrial Equipment",
+    "link": "industrial-equipment"
+  },
+  {
+    "id": 15,
+    "label": "Plantation",
+    "link": "plantation"
+  },
+  {
+    "id": 16,
+    "label": "Property",
+    "link": "property"
+  },
+  {
+    "id": 17,
+    "label": "REITs",
+    "link": "reits"
+  },
+  {
+    "id": 18,
+    "label": "Digital Services",
+    "link": "digital-services"
+  },
+  {
+    "id": 19,
+    "label": "Semiconductors",
+    "link": "semiconductors"
+  },
+  {
+    "id": 20,
+    "label": "Software",
+    "link": "software"
+  },
+  {
+    "id": 21,
+    "label": "Technology Equipment",
+    "link": "technology-equipment"
+  },
+  {
+    "id": 22,
+    "label": "Media",
+    "link": "media"
+  },
+  {
+    "id": 23,
+    "label": "Telecommunications",
+    "link": "telecommunications"
+  },
+  {
+    "id": 24,
+    "label": "Transportation",
+    "link": "transportation"
+  },
+  {
+    "id": 25,
+    "label": "Utilities",
+    "link": "utilities"
+  }
+]

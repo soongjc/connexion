@@ -1,0 +1,20 @@
+{
+  "date": "tarikh",
+  "discover_more": "lebih banyak informasi penting kepada anda",
+  "trending_article": "artikel terkini",
+  "thought_leaders": "perspektif pemimpin terutama",
+  "following": "ikutan",
+  "followers": "pengikut",
+  "tags": {
+    "aviations": "penerbangan",
+    "agriculture": "pertanian",
+    "automotive": "automotif",
+    "consumer-services": "perkhidmatan pengguna",
+    "food-and-beverages": "makan dan minum",
+    "energy": "tenaga",
+    "oil-and-gas": "sumber minyak dan gas asli",
+    "insurance": "insurans",
+    "banking": "perbankan",
+    "health-care": "kesihatan"
+  }
+}

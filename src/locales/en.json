@@ -1,0 +1,20 @@
+{
+  "date": "date",
+  "discover_more": "discover more of what matters to you",
+  "trending_article": "trending article",
+  "thought_leaders": "thought leaders",
+  "following": "following",
+  "followers": "followers",
+  "tags": {
+    "aviations": "aviation",
+    "agriculture": "agriculture",
+    "automotive": "automotive",
+    "consumer-services": "consumer services",
+    "food-and-beverages": "food and beverages",
+    "energy": "energy",
+    "oil-and-gas": "oil and gas",
+    "insurance": "insurance",
+    "banking": "banking",
+    "health-care": "health care"
+  }
+}
